@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bus Route App</string>
+    <string-array name="buslist">
+        <item>Akash</item>
+        <item>Achim</item>
+        <item>Agradut</item>
+        <item>Akik</item>
+        <item>Victor Classic</item>
+        <item>VIP 27</item>
+        <item>Anabil</item>
+    </string-array>
+</resources>
